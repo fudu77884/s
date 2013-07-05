@@ -1,1 +1,1 @@
-gei.xxx
+$ echo 'gei.xxx' >> source/CNAME
